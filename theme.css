@@ -8,7 +8,7 @@ body {
     align-items: center;
     height: 100vh;
 }
-
+p{ color :blue;}
 .contact-container {
     width: 600px;
     background-color: #84cde7; /* Light Blue */
